@@ -4,6 +4,8 @@
 
 ![image](https://user-images.githubusercontent.com/37550557/101245393-510db780-36eb-11eb-94ac-8c90b1822017.png)
 
+[Acesse a aplicação](https://lu-pereira.github.io/SAP005-data-lovers/)
+
 
 ## Índice
 
@@ -252,4 +254,4 @@ Nesta pasta está o arquivo `rickandmorty.js`, utilizado como banco de dados da 
 &nbsp;
 ## 10. Autoria 
 
-Este projeto foi realizado por Ana Clara Garcia Farah e Luciana Pereira com base no projeto da Laboratória.
+Este projeto foi o segundo desafio do bootcamp da 💛 <Laboratória/> realizado por [Ana Clara Garcia Farah](https://github.com/anaclara-gf) e [Luciana Pereira](https://github.com/luciana-pereira/) Alunas da turma SAP-005.
